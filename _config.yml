@@ -14,6 +14,7 @@ author: Tariq
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "home"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
